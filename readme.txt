@@ -5,4 +5,9 @@ change 4
 mybranchedit
 lots of changes
 conflict change
+<<<<<<< HEAD
 change 12
+=======
+change 10
+change 11
+>>>>>>> myBranch
