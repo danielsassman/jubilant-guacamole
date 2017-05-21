@@ -5,3 +5,4 @@ change 4
 mybranchedit
 lots of changes
 conflict change
+change 12
