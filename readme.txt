@@ -4,3 +4,4 @@ change 3
 change 4
 mybranchedit
 lots of changes
+conflict change
